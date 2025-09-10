@@ -54,5 +54,5 @@ The goal is to provide simple, clear, and well-documented solutions for students
 
 ---
 
-## 📂 Project Structure  
+
 
